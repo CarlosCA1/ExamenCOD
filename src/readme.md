@@ -8,4 +8,5 @@
 * Actualizamos el proyecto en Intellij ("Update project")
 * Ponemos ahora el nombre de la versión commit que indica que se hizo el pull request.
 * Para hacer una release simplemente tenemos que clicar en "new release" en el apartado de releases del repositorio, añadiendo un título, descripción y tag.
-* Para añadir un issue tenemos que activarlos en la sección de "settings". Vamos al apratado de "issues", informamos del problema y cuando este esté solucionado, lo cerramos ("close issue".
+* Para añadir un issue tenemos que activarlos en la sección de "settings". Vamos al apratado de "issues", informamos del problema y cuando este esté solucionado, lo cerramos ("close issue").
+* Para eliminar un commit hacemos clic derecho en el mismo y le damos a "undo commit".
